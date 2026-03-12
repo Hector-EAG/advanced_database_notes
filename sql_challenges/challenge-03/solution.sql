@@ -1,3 +1,4 @@
+-- fix
 -- lesson 10
 -- 10.1
 SELECT Name, max(Years_employed) FROM employees;
